@@ -1,0 +1,20 @@
+##########
+#        #
+#        #
+#    #####
+#    #    
+#    #   #
+#    #   #
+#    #   #
+#        #
+#### #####
+
+Sword,8,8
+Key,8,2,KEY0
+Door,9,4,room2,1,4,KEY2
+Door,4,9,room1,4,1,KEY0
+Skeleton,1,6
+Bat,3,7
+Bat,7,4
+Button,1,1,4,3,5,3,6,3
+Fractured Wall,3,8

@@ -1,0 +1,29 @@
+#### ### #
+# ## ### #
+  ## ### #
+###   ## #
+##     # #
+##     # #
+##     # #
+##     # #
+#        #
+##########
+
+Door,0,2,room11,8,2
+Door,4,0,room14,4,8
+Door,8,0,room14,8,8
+Teleporter,1,1,1,8
+Teleporter,1,8,1,1
+Boulder,2,4
+Boulder,3,4
+Boulder,3,5
+Boulder,4,5
+Boulder,5,5
+Boulder,5,4
+Boulder,6,4
+Boulder,6,6
+Boulder,5,7
+Boulder,4,7
+Boulder,3,7
+Boulder,2,6
+Note,8,8,"Note #8: This puzzle is hard. There's probably something worth behind that door"

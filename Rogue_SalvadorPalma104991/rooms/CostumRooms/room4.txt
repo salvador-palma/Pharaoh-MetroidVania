@@ -1,0 +1,21 @@
+##### ####
+#        #
+#        #
+#        #
+#        #
+##########
+#    #   #
+     #    
+#    #   #
+####### ##
+
+Thug,2,7
+Door,7,9,room1,7,1,KEY1
+Door,9,7,room5,1,7
+Door,0,7,room9,8,7,KEY2
+Door,5,0,room7,5,8
+Sword,2,3
+Button,7,3,false,5,6,5,7,5,8
+HealingPotion,7,7
+HealingPotion,5,3
+Note,5,4,"Note #4: With this sword these creatures will die easier"

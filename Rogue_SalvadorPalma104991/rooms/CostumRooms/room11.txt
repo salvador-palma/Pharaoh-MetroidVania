@@ -1,0 +1,22 @@
+## #######
+#   #    #
+#   #      
+#   ##   #
+#   #   ##
+######   #
+#      # #
+#        #
+#        #
+##### ####
+
+Door,5,9,room10,5,1,KEY3
+Teleporter,2,6,2,4
+Teleporter,2,4,2,6
+Door,2,0,room12,2,8
+Door,9,2,room13,1,2,KEY4
+Boulder,6,3
+Boulder,7,4
+Boulder,6,5
+Boulder,8,5
+Boulder,7,2
+Note,7,7,"Note #7: I think the boulders move when I'm not looking"

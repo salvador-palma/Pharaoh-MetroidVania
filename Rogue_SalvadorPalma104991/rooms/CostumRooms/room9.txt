@@ -1,0 +1,24 @@
+##########
+#        #
+         #
+#        #
+#   ######
+######   #
+#    #   #
+#    #    
+#    #   #
+##########
+
+Thug,1,6
+Door,9,7,room4,1,7,KEY2
+Door,0,2,room10,8,2
+Teleporter,6,5,3,4
+Teleporter,3,4,6,5
+Teleporter,5,3,4,6
+Teleporter,4,6,5,3
+Fractured Wall,4,1
+Fractured Wall,4,2
+Fractured Wall,4,3
+HealingPotion,1,8
+Note,7,7,"Note #6: Teleporters in this era?"
+

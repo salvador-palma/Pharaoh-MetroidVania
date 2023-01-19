@@ -1,0 +1,21 @@
+##########
+#    #   #
+# ### ## # 
+#  # #   #
+##       #
+#    #####
+# ##     #
+##########
+#        #
+## #######
+
+Thug,4,1
+Door,2,9,room11,2,1
+Key,5,2,KEY4
+Teleporter,6,6,6,1
+Teleporter,6,1,6,6
+Teleporter,4,3,2,3
+Teleporter,2,3,4,3
+Button,1,6,false,5,1,7,3,7,4,7,6,8,5,8,7,2,5
+Button,6,4,false,4,5
+HealingPotion,8,1

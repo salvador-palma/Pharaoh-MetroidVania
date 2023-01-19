@@ -1,0 +1,19 @@
+##########
+#        #
+#        #
+#        #
+          
+#        #
+#        #
+#        #
+#        #
+##########
+
+Note,4,5,"Note #1: Another Journey Starts"
+Door,9,4,room1,1,4,KEY0
+Door,0,4,room19,8,4,FINALKEY
+Key,6,4,KEY0
+
+
+
+

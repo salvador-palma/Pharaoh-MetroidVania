@@ -1,0 +1,17 @@
+####### ##
+#    #   #
+#    #    
+#    #   #
+     #   #
+#    #####
+#        #
+#         
+#        #
+##########
+ 
+Door,0,4,room0,8,4,
+Door,9,7,room2,1,7,
+Door,9,2,room2,1,2,
+Door,7,0,room4,7,8,KEY1
+Fractured Wall,5,7,5
+Fractured Wall,5,8,5

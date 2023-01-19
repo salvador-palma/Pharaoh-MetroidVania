@@ -1,0 +1,24 @@
+##########
+#        #
+         #
+##########
+#        #
+         #
+#        #
+#        #  
+#        #
+##### ####
+
+Door,0,2,room16,8,2,KEY5
+Door,0,5,room16,8,5
+Door,5,9,room18,5,1
+Thug,2,7
+Thug,7,7
+Scorpion,5,5
+HealingPotion,4,1
+HealingPotion,6,1
+Note,5,1,"Note #9: These potion seem to heal poison aswell"
+
+
+
+

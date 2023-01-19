@@ -1,0 +1,35 @@
+##### ####
+#  #   # #
+#  #   #  
+####   # #
+#  #######
+# #  #   #
+# #  ##  #
+## # # # #
+#  # # # #
+##########
+
+Thief,6,8
+Door,9,2,room9,1,2
+Door,5,0,room11,5,8,KEY3
+Key,6,7,KEY3
+Button,1,4,false,5,7
+Boulder,1,5
+Teleporter,8,1,1,1
+Teleporter,1,1,8,1
+Teleporter,2,2,6,1
+Teleporter,6,1,2,2
+Teleporter,4,1,1,8
+Teleporter,1,8,4,1
+Teleporter,2,7,8,5
+Teleporter,8,5,2,7
+Teleporter,6,5,1,6
+Teleporter,1,6,6,5
+Teleporter,4,3,8,8
+Teleporter,8,8,4,3
+Teleporter,6,3,4,5
+Teleporter,4,5,6,3
+Teleporter,8,3,3,6
+Teleporter,3,6,8,3
+Teleporter,4,8,7,6
+Teleporter,7,6,4,8

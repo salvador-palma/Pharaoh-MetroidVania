@@ -1,0 +1,21 @@
+##########
+#        #
+          
+#        #
+##########
+#        #
+#        #
+            
+#        #
+##########
+
+Door,0,2,room14,8,2
+Door,0,7,room14,8,7
+Door,9,2,room16,1,2
+Door,9,7,room16,1,7
+Skeleton,6,5
+Skeleton,7,6
+Skeleton,6,7
+Skeleton,7,8
+Armor,5,2
+HealingPotion,2,7

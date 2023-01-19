@@ -1,0 +1,17 @@
+##########
+#        #
+#        #
+#        #
+#         
+#        #
+#        #
+#        #
+#        #
+##########
+
+Door,9,4,room0,1,4,FINALKEY
+Note,5,5,"Note #Final: Another Journey Ends"
+Treasure,4,1
+Treasure,5,1
+
+
